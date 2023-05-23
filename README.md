@@ -1,1 +1,1 @@
-# Scolar
+# Scholar
